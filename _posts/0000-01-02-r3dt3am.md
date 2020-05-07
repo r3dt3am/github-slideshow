@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+She sells sea shells on the sea shore
 Use the left arrow to go back!
